@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Virtual environments
+venv/
+ENV/
+env/
+venv.bak/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Local PyCharm and other IDE files
+.idea/
+*.iml
+
+# Logs and database files
+*.log
+*.sqlite3
+*.db
+
+# Google Cloud and other credential files
+*.json
+
+# Hugging Face and other large model files
+*.bin
+*.h5
+
+# Machine Learning cache and files
+*.ckpt
+*.pt
+*.pth
+
+# Audio and binary files
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# XML files
+*.xml
+
+# Generated configuration or metadata files
+*.yaml
+*.yml
+config.json
+
+# Miscellaneous
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo

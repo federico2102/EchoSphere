@@ -1,0 +1,7 @@
+openai~=1.52.2
+google-cloud-speech
+google-cloud-texttospeech
+protobuf~=5.28.3
+python-dotenv~=1.0.1
+transformers~=4.46.1
+pygame~=2.6.1
